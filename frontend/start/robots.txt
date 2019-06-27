@@ -1,0 +1,7 @@
+Sitemap: http://24609.hosts1.ma-cloud.nl/bewijzenmapfrontend/start/sitemap.xml
+User-agent: *
+Disallow: /setup/
+Disallow: /cgi-bin
+Disallow: /images/
+Disallow: /photos/
+Disallow: /dealers/
